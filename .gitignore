@@ -1,0 +1,5 @@
+models_data/
+venv/
+data/test/
+data/train/
+data/validate/
