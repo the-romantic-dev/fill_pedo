@@ -3,3 +3,10 @@ venv/
 data/test/
 data/train/
 data/validate/
+
+.idea
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
